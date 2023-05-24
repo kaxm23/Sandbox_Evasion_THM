@@ -13,3 +13,7 @@ second open ur webserver to download the code on ur windows machine (victim mach
  build it on exe 
  example
  C:\Users\Administrator\Desktop\Materials>.\SandboxChecker.exe sendbox_evasion_THM.exe
+note that 
+u need to change ip_attacker 10.10.221.0 to ur attacker ip
+change 10.10.74.230 to ur victim machine 
+and change 510 to ur payload size that u build on msfvenom 
